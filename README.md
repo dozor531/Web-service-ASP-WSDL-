@@ -5,17 +5,13 @@
 
 Стек технологий:
 
-- ThingWorx
-- PostgreeSQL
-- SQL
-- PHP
-- C#
-- ASP.NET
- - ADO.NET
-- Grafana
-- Zabbix
-- Python  c библиотеками NOLEARN, LASAGNE, FAST.AI
-- Angular![изображение](https://user-images.githubusercontent.com/82703312/119228181-ff8fa280-bb3b-11eb-810f-a4040cbd5089.png)
+•PostgreeSQL
+•Grafana
+•Zabbix
+•Языки программирования (Python  c библиотеками NOLEARN, LASAGNE, FAST.AI, 
+Angular, SQL, PHP, С#, ASP.NET)
+![изображение](https://user-images.githubusercontent.com/82703312/119247151-859a0080-bbb1-11eb-8e18-e1d28770c3ba.png)
+
 
 Реализованный функционал:
 
